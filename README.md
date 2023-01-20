@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ssuzyn/ssuzyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,10 +20,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <br>
-<picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=ssuzyn&show_icons=true&theme=dracula"
-        media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=ssuzyn&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ssuzyn&show_icons=true" />
-</picture>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuzyn)](https://github.com/ssuzyn/github-readme-stats)
