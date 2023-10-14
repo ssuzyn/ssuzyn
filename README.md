@@ -7,4 +7,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+
+<br><br>
+<a href="https://velog.io/@ssuzyn">⭐My Velog⭐</a>
 </div>
