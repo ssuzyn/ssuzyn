@@ -2,13 +2,13 @@
 
 ## 📮 Contact
 <p align="left">
-  <a href="mailto:cozymfy@gmail.com"><img src="https://img.shields.io/badge/cozymfy@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cozymfy@gmail.com"/></a>
+  <a href="mailto:cozymfy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cozymfy@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cozymfy@gmail.com"/></a>
 </p>
 
 ## 💻 Blog
 <p align="left">
-  <a href="https://ssuzyn.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF5A4A?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ssuzyn.tistory.com/"/></a>
-  <a href="https://velog.io/@ssuzyn/posts"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ssuzyn/posts"/></a>
+  <a href="https://ssuzyn.tistory.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tech%20Blog-FF5A4A?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ssuzyn.tistory.com/"/></a>
+  <a href="https://velog.io/@ssuzyn/posts" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@ssuzyn/posts"/></a>
 </p>
 
 ## 🛠 Tech Stack
