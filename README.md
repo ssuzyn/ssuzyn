@@ -2,11 +2,16 @@
 
 ## 📮 Contact
 <p align="left">
-  <a href="mailto:cozymfy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cozymfy@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cozymfy@gmail.com"/></a>
+  <a href="https://velog.io/@ssuzyn/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+  <a href="https://ssuzyn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </p>
 
 ## 🎓 Education
 **삼성 SW 아카데미(SSAFY) 12기 교육생**
+
+## 🏆 Awards & Achievements
+- **최우수상** | 2024 열린데이터광장 공공데이터 활용 창업경진대회
+- **동상** | 2021 공동 심화 창의﹒융합캠프 및 UCC 경진대회
 
 ## 🛠 Tech Stack
 
@@ -34,7 +39,3 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>
 </div>
-
-## 🏆 Awards & Achievements
-- **최우수상** | 2024 열린데이터광장 공공데이터 활용 창업경진대회
-- **동상** | 2021 공동 심화 창의﹒융합캠프 및 UCC 경진대회
